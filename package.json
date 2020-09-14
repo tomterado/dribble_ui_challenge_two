@@ -6,9 +6,18 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "@vx/axis": "0.0.199",
+    "@vx/group": "0.0.199",
+    "@vx/legend": "0.0.199",
+    "@vx/mock-data": "0.0.199",
+    "@vx/scale": "0.0.199",
+    "@vx/shape": "0.0.199",
+    "@vx/tooltip": "0.0.199",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-feather": "^2.0.8",
+    "react-scripts": "3.4.3",
+    "styled-components": "^5.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
