@@ -4,6 +4,7 @@
 -------- 
 
 ## Watch the 3 Minute Timelapse Video ⬇
+https://www.youtube.com/watch?v=joZIR1yDgZI&ab_channel=TomTerado
 
 ![Dribble to Code UI Challenge: Landing page
 ](https://user-images.githubusercontent.com/16810128/93038351-9beec600-f5f9-11ea-85d3-25da513980f2.png "Dribbble UI Challenge - July 2019 [Timelapse 200x] 4K")
